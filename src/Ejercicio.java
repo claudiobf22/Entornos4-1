@@ -1,4 +1,9 @@
 public class Ejercicio {
+
+
+//esta rama es solo para los metodos de composición .... cada uno se tiene que inventar un metodo explicarlo y hacer lo que tienen que hacer ....
+
+
         private double numero;
 
         //getters y setters
