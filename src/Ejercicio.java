@@ -30,6 +30,16 @@ public class Ejercicio {
             return (int) Math.round( (redondearAEntero() * Math.random()));
         }
 
+
+
+
+        //codigo de refactorizacion russell
+        int a ;
+        int b ;
+
+
+
+
     }
 
 
