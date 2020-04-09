@@ -1,3 +1,5 @@
+package ExtraccionDelMetodo;
+
 public class Ejercicio {
 
 
